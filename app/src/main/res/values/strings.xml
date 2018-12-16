@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="section">Politics</string>
+    <string name="author">Jim Waterson</string>
+    <string name="time">2018-12-01T07:00:15Z</string>
+    <string name="article">May v Corbyn on Brexit: the debate over the debate</string>
+    <string name="no_internet_connection">no_internet_connection</string>
+    <string name="no_debates">no_debates_found</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_relevance_value</string>
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">q</string>
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">time</string>
+
+
+    <string name="settings_topic_label">Topic</string>
+    <string name="settings_topic_key" translatable="false">topic</string>
+    <string name="settings_topic_default" translatable="false">@string/settings_topic_debate_value</string>
+
+    <string name="settings_topic_debate_label">Debate</string>
+    <string name="settings_topic_debate_value" translatable="false">debates</string>
+
+    <string name="settings_topic_economics_label">Economics</string>
+    <string name="settings_topic_economics_value" translatable="false">economy</string>
+
+    <string name="settings_topic_education_label">Education</string>
+    <string name="settings_topic_education_value" translatable="false">education</string>
+
+    <string name="settings_topic_immigration_label">Immigration</string>
+    <string name="settings_topic_immigration_value" translatable="false">immigration</string>
+
+</resources>

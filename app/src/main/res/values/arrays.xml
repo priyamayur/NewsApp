@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_relevance_label</item>
+        <item>@string/settings_order_by_newest_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_relevance_value</item>
+        <item>@string/settings_order_by_newest_value</item>
+    </string-array>
+
+    <string-array name="settings_topic_labels">
+        <item>@string/settings_topic_debate_label</item>
+        <item>@string/settings_topic_economics_label</item>
+        <item>@string/settings_topic_education_label</item>
+        <item>@string/settings_topic_immigration_label</item>
+    </string-array>
+
+    <string-array name="settings_topic_values">
+        <item>@string/settings_topic_debate_value</item>
+        <item>@string/settings_topic_economics_value</item>
+        <item>@string/settings_topic_education_value</item>
+        <item>@string/settings_topic_immigration_value</item>
+    </string-array>
+</resources>
